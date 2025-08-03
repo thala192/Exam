@@ -1,4 +1,5 @@
-# AI Proctor
+#Exam_PlatForm
+ 
 
 An intelligent online exam proctoring system that uses computer vision and AI to detect violations in real-time.
 
