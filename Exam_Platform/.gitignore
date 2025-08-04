@@ -58,3 +58,6 @@ Thumbs.db
 !backend/weights/
 !backend/weights/*
 !backend/yolov8n.pt
+venv/
+__pycache__/
+*.pyc
