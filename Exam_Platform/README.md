@@ -26,8 +26,8 @@ An intelligent online exam proctoring system that uses computer vision and AI to
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/Rookiechan191/AI-Proctor.git
-   cd AI-Proctor
+   git clone https://github.com/thala192/Exam.git
+   cd Exam_Platform
    npm install
    cd backend && pip install -r requirements.txt
    ```
